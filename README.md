@@ -1,4 +1,4 @@
-# dayFice: thenewboston
+# dayFive: thenewboston
 A ten day challenge that I've challenged myself to do. dayFive is a concept template for [thenewboston.com](http://thenewboston.com/) where programmers meet and socialize
 
 # Sources used
