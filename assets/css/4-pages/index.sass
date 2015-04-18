@@ -1,0 +1,101 @@
+#main-container
+	width: 960px
+	margin: 100px auto
+	height: auto
+
+header
+	margin-bottom: 30px
+
+	#nav
+		padding: 0
+		margin: 0
+
+		li
+			list-style-type: none
+			display: inline-block
+	
+	#logo
+		margin-bottom: 5px
+
+		a
+			font-size: 16px
+			font-weight: 400
+			text-transform: uppercase
+
+		span
+			color: #C0392B
+
+#content
+	width: 70%
+	margin-bottom: 80px
+
+.post
+	margin-top: 50px
+	+clearfix
+
+	.info
+		width: 80%
+		float: left
+	
+	.time-posted
+		color: lighten($accent-color, 60%)
+		margin-bottom: 15px
+		display: block
+
+	.profile-pic
+		+size(60px)
+		display: block
+		float: left
+		margin-right: 40px
+		height: 100%
+		border-radius: 100%
+
+	img
+		width: 100%
+
+	p
+		margin: 0
+
+	.name
+		display: inline-block
+		font-weight: 500
+	
+	.user-feedback
+		margin-top: 15px
+		display: block
+		color: lighten($accent-color, 50%)
+
+		.like, .comment
+			color: lighten($accent-color, 50%)
+
+			&:hover
+				color: lighten($accent-color, 30%)
+
+#user-input
+	
+	input[type=text]
+		width: 100%
+		box-sizing: border-box
+		padding: 5px 10px
+		outline: none
+		border: thin solid #ddd
+		resize: none
+		display: inline-block
+		font-size: 14px
+		color: lighten($accent-color, 20%)
+			
+footer
+	width: 70%
+
+#load-more
+	display: block
+	background: $accent-color
+	color: white
+	border: none
+	padding: 15px 0
+	width: 300px
+	margin: 0 auto
+
+		
+
+
