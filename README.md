@@ -1,2 +1,14 @@
 # tenDayChallenge-dayFive
-A ten day challenge that I've challenged myself to do. dayFice is a concept template for livecoding.tv where you can host live sessions.
+A ten day challenge that I've challenged myself to do. dayFive is a concept template for thenewboston.com where programmers meet and socialize
+
+# Sources used
+Devtips Starter Kit:
+[Get on GitHub](https://github.com/DevTips/DevTips-Starter-Kit)
+
+Bourbon.io:
+[Visit officail site](http://bourbon.io/)
+
+thenewboston Website:
+[Visit site](http://thenewboston.com/)
+
+![screenshots](assets/img/screenshot.png)
